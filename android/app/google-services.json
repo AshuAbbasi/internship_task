@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207723082744",
+    "project_id": "tour-app-e92b6",
+    "storage_bucket": "tour-app-e92b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207723082744:android:97d0a943c03f1d4d331c0d",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoC_oJ4wVBDulh86SsXqlk5-hD_bwyL8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
